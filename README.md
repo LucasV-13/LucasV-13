@@ -8,15 +8,15 @@
 
 <img align='right' src='https://octodex.github.com/images/privateinvestocat.jpg' width='25%'>  
 
+{
 
-
-  
+ 
 
 * I am **LucasV-13**, a French student in **cybersecurity** passionate about technology and programming. Currently, I am starting my journey in programming, and I am determined to develop my skills in this field.
 
 
 
-
+}
 
 <br/>
 
