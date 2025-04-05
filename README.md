@@ -35,7 +35,7 @@
 
 <h2 align="center">My Skills</h2>
 
-<h4 align="center">Programming languages (and html)</h4>
+<h4 align="center">Programming languages</h4>
 
 <p align="center">
 <a href="https://github.com/search?q=user%3ALucasV-131+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
