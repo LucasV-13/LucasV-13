@@ -23,9 +23,9 @@
 <h2 align="center">Statistics</h2>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=LucasV-13&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasV-13&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=LucasV-13&theme=material-palenight&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=LucasV-13&show_icons=true&count_private=true&theme=night&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasV-13&layout=compact&hide_border=true&theme=night&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=LucasV-13&theme=night&hide_border=true&background=FFFFFF00">
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@
 <a href="https://github.com/search?q=user%3ALucasV-131+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
-<h4 align="center">⚙ Software</h4>
+<h4 align="center">Software</h4>
 
 <p align="center">
 <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33.svg?logo=debian&logoColor=white"></a>
@@ -59,7 +59,7 @@
 <a hreft="#"><img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white"></a>
 </p>
 
-<h4 align="center">☁ Cloud and Providers</h4>
+<h4 align="center">Cloud and Providers</h4>
 
 <p align="center">
 <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?logo=mariadb&logoColor=white"></a>
@@ -67,7 +67,3 @@
 </p>
 
 <br/>
-
-```math
-\ce{$&#x5C;unicode[color:red; pointer-events: none; z-index: 0; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.20; background: url('https://raw.githubusercontent.com/LucasV-13/profil/master/wallpapers/blackandwhite.jpg') no-repeat center center fixed; background-size: cover;]{x0000}$}
-```
